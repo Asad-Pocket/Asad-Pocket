@@ -6,13 +6,12 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asad-pocket&label=Profile%20views&color=0e75b6&style=flat" alt="asad-pocket" /> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-pocket&show_icons=true&locale=en&layout=compact" alt="asad-pocket" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-pocket&show_icons=true&locale=en" alt="asad-pocket" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-pocket&hide_progress=true)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asad-pocket&label=Profile%20views&color=0e75b6&style=flat" alt="asad-pocket" /> </p>
 ## I'm a Software Engineer (Web Aplication Developer) | Problem Solver | RND Enthusiast
 
 
