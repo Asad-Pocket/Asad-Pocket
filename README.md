@@ -6,15 +6,7 @@
   </a>
 </p>
 
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad-pocket&label=Profile%20views&color=0e75b6&style=flat" alt="asad-pocket" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asad-pocket" alt="asad-pocket" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [StockManagementSystem](https://github.com/Asad-Pocket/StockManagementSystem)
 
@@ -32,16 +24,23 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asad-pocket" alt="asad-pocket" /></a> </p>
+<p>
+  
+</p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/asadulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asadulislam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asadul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadul islam" height="30" width="40" /></a>
-<a href="https://fb.com/asadul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asadul islam" height="30" width="40" /></a>
-<a href="https://hashnode.com/asadul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="asadul islam" height="30" width="40" /></a>
-<a href="https://medium.com/@asadblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asadblog" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/asadul_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asadul_islam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asadul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asadul islam" height="30" width="40" /></a>
-<a href="/https://rss.app/feeds/1nacfaaaq6oasjka.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/1nacfaaaq6oasjka.xml" height="30" width="40" /></a>
+<a href="https://dev.to/asadulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asadulislam" height="15" width="100" /></a>
+<a href="https://linkedin.com/in/asadul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadul islam" height="15" width="100" /></a>
+<a href="https://fb.com/asadul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asadul islam" height="15" width="100" /></a>
+<a href="https://hashnode.com/asadul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="asadul islam" height="15" width="100" /></a>
+<a href="https://medium.com/@asadblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asadblog" height="15" width="100" /></a>
+<a href="https://codeforces.com/profile/asadul_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asadul_islam" height="15" width="100" /></a>
+<a href="https://www.leetcode.com/asadul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asadul islam" height="15" width="100" /></a>
+<a href="/https://rss.app/feeds/1nacfaaaq6oasjka.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/feeds/1nacfaaaq6oasjka.xml" height="15" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
