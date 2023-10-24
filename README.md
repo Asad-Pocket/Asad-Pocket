@@ -9,9 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad-pocket&label=Profile%20views&color=0e75b6&style=flat" alt="asad-pocket" /> </p>
 
 
-## I'm a Software Engineer (Web Aplication Developer) | Problem Solver
-
-# ____________________________________________________________________
+## I'm a Software Engineer (Web Aplication Developer) | Problem Solver | RND Enthusiast
 
 
 - 🔭 I’m currently working on [StockManagementSystem](https://github.com/Asad-Pocket/StockManagementSystem)
