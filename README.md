@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-pocket&show_icons=true&locale=en" alt="asad-pocket" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asad-pocket&show_icons=true&locale=en" alt="asad-pocket" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-pocket&show_icons=true&locale=en&layout=compact" alt="asad-pocket" /></p>
 
