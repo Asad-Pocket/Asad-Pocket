@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://sites.google.com/view/asad-pocket">
-    <img src="[https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)" alt="MasterHead" width="300" height="200">
+    <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" alt="MasterHead" width="300" height="200">
   </a>
 </p>
 
