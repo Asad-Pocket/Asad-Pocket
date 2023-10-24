@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Asadul Islam</h1>
-<h3 align="center">A passionate .Net developer from Bangladesh</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Asadul Islam!+👋)](https://git.io/typing-svg)
+
+
+<p align="left">
+  <a href="https://sites.google.com/view/istiaq66">
+    <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" alt="MasterHead" width="300" height="200">
+  </a>
+</p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [StockManagementSystem](https://github.com/Asad-Pocket/StockManagementSystem)
