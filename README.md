@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-pocket&" alt="asad-pocket" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad-pocket&label=Profile%20views&color=0e75b6&style=flat" alt="asad-pocket" /> </p>
 
 ## I'm a Software Engineer (Web Aplication Developer) | Problem Solver | RND Enthusiast
@@ -22,9 +21,9 @@
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/drive/folders/1fz8KNMoj5QkvDoME3CIAFEJCRmc5995f?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+# Recent Blog Posts
+
+- [Dependency Injection & Service Lifetime](https://asadulislam.hashnode.dev/dependency-injection-service-lifetime) - Dependency Injection (DI) is a technique that achieves dependency inversion by providing dependencies to a class. When a client needs a dependency, it is supplied (injected) to the client.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asad-pocket" alt="asad-pocket" /></a> </p>
 <p>
@@ -50,3 +49,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=asad-pocket&show_icons=true&locale=en" alt="asad-pocket" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-pocket&show_icons=true&locale=en&layout=compact" alt="asad-pocket" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-pocket&" alt="asad-pocket" /></p>
