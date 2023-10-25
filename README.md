@@ -18,6 +18,10 @@
 - 📝 I regularly write articles on [Hashnode](https://asadulislam.hashnode.dev/)
 
 - 📫 How to reach me: asadulislam3506@gmail.com
+  
+- ⚡ Fun fact: I love to play video games / football
+    
+- 🏢 I'm currently Studying at [IIUC](https://www.iiuc.ac.bd/)
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/drive/folders/1fz8KNMoj5QkvDoME3CIAFEJCRmc5995f?usp=sharing)
 
