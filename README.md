@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asad-pocket&label=Profile%20views&color=0e75b6&style=flat" alt="asad-pocket" /> </p>
 
-## I'm a Software Engineer (Web Aplication Developer) | Problem Solver | RND Enthusiast
+## I'm a Software Engineer (Web Application Developer) | Problem Solver | RND Enthusiast
 
 
 - 🔭 I’m currently working on [StockManagementSystem](https://github.com/Asad-Pocket/StockManagementSystem)
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://asadulislam.hashnode.dev/)
 
-- 📫 How to reach me [mail.me](asadulislam3506@gmail.com)
+- 📫 How to reach me [mail.me](***asadulislam3506"gmail.com***)
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/drive/folders/1fz8KNMoj5QkvDoME3CIAFEJCRmc5995f?usp=sharing)
 
