@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://asadulislam.hashnode.dev/)
 
-- 📫 How to reach me [mail.me](***asadulislam3506"gmail.com***)
+- 📫 How to reach me [mail.me](**asadulislam3506@gmail.com**)
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/drive/folders/1fz8KNMoj5QkvDoME3CIAFEJCRmc5995f?usp=sharing)
 
